@@ -52,7 +52,7 @@ Figma · Canva
 
 ## 📂 Projets sélectionnés
 
-### ▸ OpenMetadata Integration (PFE)
+### ▸ OpenMetadata Integration 
 Gestion complète d’un Data Catalog avec OpenMetadata : services, databases, schemas, tables + lineage.
 
 ### ▸ Web Sémantique (Fuseki, SPARQL)
